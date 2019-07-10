@@ -18,5 +18,3 @@ class Player:
     def print_direction(self, direction):
         print(
             f"\nYou have reached the edge of the world, boi. STOP MOVING {direction.upper()}\n")
-
-    def get_current_room()
